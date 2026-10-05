@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://deluxe.webart.work/sitemap.xml
+Sitemap: https://deluxe.hotelup.work/sitemap.xml

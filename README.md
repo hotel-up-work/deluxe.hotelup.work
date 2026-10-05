@@ -1,6 +1,6 @@
 # Boutique Hotel Deluxe / Готельний комплекс «Делюкс»
 
-Live site: https://deluxe.webart.work
+Live site: https://deluxe.hotelup.work
 
 ## About
 Boutique Hotel Deluxe — міський готель у Кам’янці-Подільському, Нігінське шосе, 24А. Сторінка продає просте full-service city stay за формулою STAY · DINE · COMFORT і сценарієм ARRIVE → PARK → CHECK-IN → DINE → SLEEP → BREAKFAST. Слово «Deluxe» не використовується як доказ luxury.
